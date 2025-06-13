@@ -1,17 +1,24 @@
-# Pinoy Movies Stremio Addon
+# 📺 Cartoon Network Stremio Addon
 
-## Description
+An unofficial Stremio addon that lets you stream a wide range of Cartoon Network shows directly within the Stremio app.
 
-This project is a Stremio addon that lists the latest Filipino movies, allowing users to stream them directly within the Stremio app. The addon is built using the Stremio Addon SDK and provides a catalog of Filipino movies that can be easily accessed and played.
+> ⚠️ This addon is not affiliated with or endorsed by Cartoon Network.
 
-## Features
+---
 
-- Lists the latest Filipino movies.
-- Integrates seamlessly with the Stremio app.
-- Server-side logic implemented in `server.js`.
-- Environment variable management using `dotenv`.
-- HTTP requests handled by `axios`.
+## ✨ Features
 
-## Installation
+- Watch popular Cartoon Network shows via Stremio
+- Integrated catalog for easy browsing
+- Fast stream loading (where available)
+- Compatible with Stremio desktop and mobile
 
-Visit this link: https://dindz-addon.onrender.com/ and click on the "Install" button to install the addon in your Stremio app.
+---
+
+## 🛠 Installation
+
+1. Clone or download this repository:
+
+```bash
+git clone https://github.com/your-username/cartoon-network-stremio-addon.git
+cd cartoon-network-stremio-addon
