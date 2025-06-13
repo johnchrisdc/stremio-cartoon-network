@@ -47,7 +47,7 @@ const manifest = {
   ],
   resources: ["catalog", "meta"],
   idPrefixes: ["tmdb"],
-  logo: "https://image.tmdb.org/t/p/w500/qnhd98hnBxCMMMod58FJqbCZ5O7.png",
+  logo: "https://raw.githubusercontent.com/johnchrisdc/stremio-cartoon-network/refs/heads/main/potato-inc.png",
 };
 
 // Helper functions
