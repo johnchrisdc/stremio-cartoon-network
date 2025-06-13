@@ -48,6 +48,10 @@ const manifest = {
   resources: ["catalog", "meta"],
   idPrefixes: ["tmdb"],
   logo: "https://raw.githubusercontent.com/johnchrisdc/stremio-cartoon-network/refs/heads/main/potato-inc.png",
+  stremioAddonsConfig: {
+    issuer: "https://stremio-addons.net",
+    signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..OCazw3GP0SIkE3Htmo9H1w.3p6AhQCXb8-sIxbD4sSmMbW-aCkIvNDEduDB6rViiDBiGOuHYGMMG8G6JByATbBkMXziLlttduL3qTrDWZB4FyUYZ84p-8pL8gRKkHdqOn_z58OUz0WSRMts-XrO58_K.SFb81L0ZYkbQVSj5iNOByQ"
+  }
 };
 
 // Helper functions
